@@ -56,10 +56,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 
 ## CLIENT OUTPUT:
-<img src="https://github.com/user-attachments/assets/1fc4f665-6e58-43a3-86b0-1d3b5308113b">
+<img src="https://github.com/user-attachments/assets/1fc4f665-6e58-43a3-86b0-1d3b5308113b" width=50%>
 
 ## SERVER OUTPUT:
-<img src="https://github.com/user-attachments/assets/4df6707b-67f7-462c-a002-6b509ceb9058">
+<img src="https://github.com/user-attachments/assets/4df6707b-67f7-462c-a002-6b509ceb9058" width=50%>
 
 
 ## RESULT:
